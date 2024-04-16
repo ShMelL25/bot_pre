@@ -1,0 +1,66 @@
+{
+    "0":{
+        "text":[
+            "Как это работает для вас", 
+            "Как работает интерфейс клиента", 
+            "Заказать"
+        ], 
+        "callback_data":["how_work_for_your", "how_work_for_client", "buy"]
+    },
+    "1.1":{
+        "text":[
+            "Назад"
+        ], 
+        "callback_data":["menu"]
+    },
+    "1.2":{
+        "text":[
+            "Расскажи", 
+            "Покажи", 
+            "Назад"
+        ], 
+        "callback_data":["tell_me", "show_me", "menu"]
+    },
+    "2.1":{
+        "text":[ 
+            "Покажи", 
+            "Назад"
+        ], 
+        "callback_data":["show_me", "menu"]
+    },
+    "2.2":{
+        "text":[ 
+            "Тариф_1",
+            "Тариф_2",
+            "Тариф_3",
+            "Назад"
+        ], 
+        "callback_data":["tarif_1", "tarif_2", "tarif_3", "menu"]
+    },
+    "3.1":{
+        "text":[
+            "Назад"
+        ], 
+        "callback_data":["menu"]
+    },
+    "3.2":{
+        "text":[
+            "Да",
+            "Нет"
+        ], 
+        "callback_data":["next_1", "buy"]
+    },
+    "4":{
+        "text":[
+            "Да",
+            "Нет"
+        ], 
+        "callback_data":["next_2", "buy"]
+    },
+    "5":{
+        "text":[
+            "Главное меню"
+        ], 
+        "callback_data":["menu"]
+    }
+}
